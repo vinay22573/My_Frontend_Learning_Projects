@@ -1,0 +1,104 @@
+{
+    "courses": [
+    {
+        "id": 1,
+        "title": "Music Production 101",
+        "slug": "classical-guitar-techniques",
+        "description": "This is a brief description for the course titled 'Music Production 101'.",
+        "price": 261.09,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "https://example.com/images/music_course_5.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Music Production 101",
+        "slug": "classical-guitar-techniques",
+        "description": "This is a brief description for the course titled 'Jazz Improvisation'.",
+        "price": 376.03,
+        "instructor": "John Doe",
+        "isFeatured": false,
+        "image": "https://example.com/images/music_course_8.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Guitar Basics",
+        "slug": "jazz-improvisation",
+        "description": "This is a brief description for the course titled 'Electronic Music Composition'.",
+        "price": 197.2,
+        "instructor": "Emily Johnson",
+        "isFeatured": false,
+        "image": "https://example.com/images/music_course_3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Vocal Techniques",
+        "slug": "introduction-to-piano",
+        "description": "This is a brief description for the course titled 'Guitar Basics'.",
+        "price": 451.01,
+        "instructor": "Laura Anderson",
+        "isFeatured": false,
+        "image": "https://example.com/images/music_course_8.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Advanced Music Theory",
+        "slug": "jazz-improvisation",
+        "description": "This is a brief description for the course titled 'Guitar Basics'.",
+        "price": 101.26,
+        "instructor": "Emily Johnson",
+        "isFeatured": false,
+        "image": "https://example.com/images/music_course_1.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Jazz Improvisation",
+        "slug": "music-production-101",
+        "description": "This is a brief description for the course titled 'Drum Mastery'.",
+        "price": 289.96,
+        "instructor": "Daniel Martinez",
+        "isFeatured": false,
+        "image": "https://example.com/images/music_course_3.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Guitar Basics",
+        "slug": "introduction-to-piano",
+        "description": "This is a brief description for the course titled 'Introduction to Piano'.",
+        "price": 468.14,
+        "instructor": "Daniel Martinez",
+        "isFeatured": true,
+        "image": "https://example.com/images/music_course_4.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Vocal Techniques",
+        "slug": "introduction-to-piano",
+        "description": "This is a brief description for the course titled 'Music Production 101'.",
+        "price": 421.32,
+        "instructor": "Sarah Davis",
+        "isFeatured": false,
+        "image": "https://example.com/images/music_course_3.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Advanced Music Theory",
+        "slug": "classical-guitar-techniques",
+        "description": "This is a brief description for the course titled 'Advanced Music Theory'.",
+        "price": 304.87,
+        "instructor": "Laura Anderson",
+        "isFeatured": false,
+        "image": "https://example.com/images/music_course_2.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Guitar Basics",
+        "slug": "jazz-improvisation",
+        "description": "This is a brief description for the course titled 'Jazz Improvisation'.",
+        "price": 443.31,
+        "instructor": "Sarah Davis",
+        "isFeatured": false,
+        "image": "https://example.com/images/music_course_2.jpg"
+    }
+]
+}
